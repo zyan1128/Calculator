@@ -1,0 +1,135 @@
+body{
+	-webkit-user-select:none;
+}
+.clear{
+	clear:both;
+
+}
+.wai{
+	margin: 50px auto;
+	width: 420px;
+	/*height: 750px;*/
+	background-color: #F3EBEB;	
+}
+.ztl{
+	width: 100%;
+	height: 30px;
+	background-color: black;
+}
+.mobile{
+	padding: 10px;
+	margin-top: 18px;
+}
+.top{
+	width: 400px;
+	border: 1px solid #F4F4F4;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-image: linear-gradient(#979797,#FEFEFE);
+    border-radius: 5px;
+}
+.xianshiqi{
+	width: 380px;
+    height: 120px;
+    background-color: #627B43;
+    margin: 5px auto;
+    border: 5px solid black;
+    border-radius: 10px;
+    font-size: 3em;
+    text-align: right;
+    line-height: 60px;
+}
+.xianv{
+	height: 60px;
+	overflow: hidden;
+}
+.bottom{
+	width: 100%;
+	/*height: 600px;*/
+	background-color: #EADEEC;
+}
+.xiao{
+	width: 80px;
+	height: 60px;
+	margin: 10px;
+	float: left;
+	color: black;
+	/*border: 1px solid black;*/
+	border-radius: 10px;
+	text-align: center;
+	line-height:58px;
+	font-size: 1.5em;
+	box-shadow: 0 0 8px #8B8484;
+	cursor: pointer;
+}
+.gao{
+	height: 140px;
+	float: right;
+	line-height: 140px; 
+}
+.kuan{
+	width: 180px;
+}
+.co1{
+	background-image: linear-gradient(#6A6969,#2A2626);
+	color: #fff;
+}
+.co2{
+	background-image: linear-gradient(#A4A4A4,#727171);
+	color: #fff;
+}
+.co3{
+	background-image: linear-gradient(#FEFEFE,#DDDDDD);
+	color: #6C6C6C;
+}
+.co4{
+	background-image: linear-gradient(#FF9605,#F65720);
+	color: #fff;
+}
+.content{
+	margin: 50px auto;
+	width: 700px;
+	/*height: 750px;*/
+	background-color: #F3EBEB;
+}
+.top-c{
+	width: 680px;
+}
+.xianshiqi-c{
+	width: 670px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 2.5em;
+	overflow: hidden;
+}
+.heng{
+	padding: 10px;
+}
+.bottom-c .xiao{
+	width: 75px;
+	height: 38px;
+	margin: 5px;
+	float: left;
+	color: black;
+	/*border: 1px solid black;*/
+	border-radius: 10px;
+	text-align: center;
+	line-height:38px;
+	font-size: 1.5em;
+	box-shadow: 0 0 8px #8B8484;
+}
+.bottom-c .gao{
+	height: 86px;
+	float: right;
+	line-height: 86px; 
+}
+.bottom-c .kuan{
+	width: 160px;
+}
+.memo {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 8.5%;
+    left: 49%;
+}
